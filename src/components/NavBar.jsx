@@ -19,6 +19,7 @@ const Navbar = () => {
           </div>
           <div className="flex">
             <div className="hidden sm:block sm:ml-6">
+              {/* make sure to add a anchor tag link to each when nearing the end of this project */}
               <ul className="flex space-x-4">
                 <li>
                   <a href="#" className="text-white hover:text-gray-300">
