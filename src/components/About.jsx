@@ -9,8 +9,11 @@ const About = () => {
           <h1 className="text-4xl text-white font-bold">
             Welcome to Our Shop
           </h1>
-          <p className="text-white mt-4">
+          <h3 className="text-white mt-4">
             Home of the chester Clipper's where we provide good service to make a better tomrrow for the young men in our community.
+          </h3>
+          <p>
+            Did you hear that? They've shut down the main reactor. We'll be destroyed for sure. This is madness! We're doomed! There'll be no escape for the Princess this time. What's that? Artoo! Artoo-Detoo, where are you? At last! Where have you been? They're heading in this direction. What are we going to do? We'll be sent to the spice mine of Kessel or smashed into who knows what! Wait a minute, where are you going? The Death Star plans are not in the main computer. Where are those transmissions you intercepted? What have you done with those plans? We intercepted no transmissions.
           </p>
         </div>
       </div>
