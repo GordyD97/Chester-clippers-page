@@ -7,12 +7,10 @@ const About = () => {
       <div className="bg-gray-800 py-20">
         <div className="container mx-auto px-4">
           <h1 className="text-4xl text-white font-bold">
-            Welcome to Our Company
+            Welcome to Our Shop
           </h1>
           <p className="text-white mt-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel
-            est turpis. Vivamus sollicitudin tellus non justo tincidunt
-            tincidunt.
+            Home of the chester Clipper's where we provide good service to make a better tomrrow for the young men in our community.
           </p>
         </div>
       </div>
