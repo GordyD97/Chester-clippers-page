@@ -4,7 +4,7 @@ const Services = () => {
   return (
     <div className="container mx-auto">
       {/* next line down needs to have the cards stacked in a grid. adding the class to the div below does not give them the correct property.  */}
-      <div className="grid grid-rows-1 grid-cols-3">
+      <div className="grid grid-cols-1 sm:grid-cols-3">
         {/* this is the seperation between the container and the actuall product card.  */}
         <div class="max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
           <div class="px-4 py-2">

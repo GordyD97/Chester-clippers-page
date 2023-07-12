@@ -19,7 +19,7 @@ const About = () => {
       </div>
 
       {/* Large Card 1 */}
-      <div className="container mx-auto mt-12">
+      <div className="container mx-auto mt-12 bg-gray-600">
         <div className="flex">
           <div className="w-1/2 p-4">
             <img
@@ -40,7 +40,7 @@ const About = () => {
       </div>
 
       {/* Large Card 2 */}
-      <div className="container mx-auto mt-12">
+      <div className="container mx-auto mt-12 bg-blue-800">
         <div className="flex">
           <div className="w-1/2 p-4">
             <h2 className="text-2xl font-bold">Card 2 Title</h2>
