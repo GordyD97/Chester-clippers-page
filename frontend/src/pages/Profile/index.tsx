@@ -15,7 +15,7 @@ import Input from '../../components/Input';
 import Button from '../../components/Button';
 
 import { Container, Content, AvatarInput } from './styles';
-import { useAuth } from '../../hooks/auth.tjsx';
+import { useAuth } from '../../hooks/auth.jsx';
 
 interface ProfileFormData {
   name: string;

@@ -20,7 +20,7 @@ import {
 } from './styles';
 
 import logoImg from '../../assets/logo.svg';
-import { useAuth } from '../../hooks/auth.tjsx';
+import { useAuth } from '../../hooks/auth.jsx';
 import api from '../../services/api';
 
 interface MonthAvailabilityItem {
